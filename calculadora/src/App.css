@@ -1,0 +1,41 @@
+html,body{
+  background-color: bisque;
+  padding-bottom: 17px;
+}
+
+.App{
+  height: 100vh;
+  padding-top: 10px;
+  padding-bottom: 17px;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.freeCode-logo-contenedor{
+  width: 100%;
+  height: 50px;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.freeCode-logo{
+  height: 40px;
+}
+.contenedor-calculadora{
+  width: 380px;
+  min-height: 500px;
+  padding: 14px;
+  background-color: #99c9ff;
+  border-radius: 20px;
+  border: 5px solid #222;
+}
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
